@@ -20,6 +20,18 @@ Adoption and Rescue: Facilitate pet adoption by partnering with shelters and res
 
 Pet Health and Care: Share tips, articles, and resources on pet health, nutrition, grooming, training, and general care.
 
+## MVP
+
+First iteration 
+- Users can create an account 
+- Users can create and update Profile
+- Users can add pets to their My Pets section
+- Users can create Pet Clans
+- Users can request to join another Pet Clan
+- Users can message others in same Pet Clan
+- Users can create posts and see posts from others in feed
+- Users have the ability to remove or modify any details from sections they have created
+
 ## Installation
 
 Install CritterConnect project with npm
