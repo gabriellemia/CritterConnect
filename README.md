@@ -38,6 +38,9 @@ Install CritterConnect project with npm
 <img width="611" alt="Screenshot 2024-05-13 at 20 53 00" src="https://github.com/gabriellemia/CritterConnect/assets/78322726/cce96273-b4ba-4334-9b8a-8328e6cdaedf">                       <img width="147" alt="Screenshot 2024-05-13 at 20 53 52" src="https://github.com/gabriellemia/CritterConnect/assets/78322726/cd00a5b4-69a1-47df-83c1-943df6fe0a05">
 <img width="624" alt="Screenshot 2024-05-13 at 20 53 16" src="https://github.com/gabriellemia/CritterConnect/assets/78322726/e8aea52d-7e9e-4798-b29c-ad13baf35323">
 
+## Basic ERD (first draft)
+
+<img width="718" alt="Screenshot 2024-05-14 at 21 05 43" src="https://github.com/gabriellemia/CritterConnect/assets/78322726/60d598f0-23c0-4715-b065-e0e7615e0743">
 
 
 
