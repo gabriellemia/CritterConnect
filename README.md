@@ -31,3 +31,13 @@ Install CritterConnect project with npm
 
 - Create the root layout in layout.js, you need the html and body tags in this.
 - Create the Home page in page.js
+
+## Wireframe
+
+<img width="916" alt="Screenshot 2024-05-13 at 20 50 45" src="https://github.com/gabriellemia/CritterConnect/assets/78322726/62031536-f5f6-4324-8c94-f77f0bfed08c">
+<img width="611" alt="Screenshot 2024-05-13 at 20 53 00" src="https://github.com/gabriellemia/CritterConnect/assets/78322726/cce96273-b4ba-4334-9b8a-8328e6cdaedf">                       <img width="147" alt="Screenshot 2024-05-13 at 20 53 52" src="https://github.com/gabriellemia/CritterConnect/assets/78322726/cd00a5b4-69a1-47df-83c1-943df6fe0a05">
+<img width="624" alt="Screenshot 2024-05-13 at 20 53 16" src="https://github.com/gabriellemia/CritterConnect/assets/78322726/e8aea52d-7e9e-4798-b29c-ad13baf35323">
+
+
+
+
